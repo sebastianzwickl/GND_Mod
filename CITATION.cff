@@ -1,0 +1,18 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Technische Universität Wien, Energy Economics Group (EEG)"
+    family-names: "Zwickl-Bernhard"
+    given-names: Sebastian
+    orcid: "https://orcid.org/0000-0002-8599-6278"
+cff-version: "1.1.0"
+version: 1.0
+date-released: 2022-03-03
+license: "GPL-3.0 License"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/sebastianzwickl/GND_Mod"
+title: "Gas network decommissioning model (GND_Mod)"
+url: "https://github.com/sebastianzwickl/GND_Mod"
+
+...
